@@ -1,0 +1,23 @@
+employee_id,start_date,end_date,reason
+4,2023-11-09,2023-11-22,Vacation
+5,2023-08-26,2023-09-09,Medical appointment
+7,2023-01-28,2023-02-14,Vacation
+7,2023-06-13,2023-07-03,Training/Conference
+15,2023-08-21,2023-08-26,Paternity leave
+17,2023-10-14,2023-11-04,Annual leave
+18,2024-11-29,2024-12-29,Medical appointment
+21,2024-03-09,2024-03-10,Maternity leave
+22,2023-08-19,2023-09-01,Paternity leave
+23,2024-06-30,2024-07-16,Training/Conference
+26,2023-11-29,2023-12-01,Medical appointment
+27,2024-05-08,2024-05-28,Sick leave
+27,2025-02-20,2025-03-05,Unpaid leave
+28,2024-07-06,2024-07-13,Sick leave
+29,2024-02-19,2024-03-03,Unpaid leave
+32,2025-02-01,2025-02-18,Vacation
+33,2024-06-14,2024-06-25,Annual leave
+34,2024-10-12,2024-11-01,Vacation
+36,2024-11-24,2024-12-08,Sick leave
+37,2024-10-19,2024-11-03,Vacation
+39,2025-12-19,2026-01-27,Unpaid leave
+40,2025-12-14,2026-01-11,Personal day

@@ -1,0 +1,21 @@
+﻿product_id,product_name,base_price,unit_space_needed,is_active,category_id,needed_hours
+,ERGOSIT Comfort Office Chair,599.99,2,1,1,8
+,ERGOSIT Basic Office Chair,349.99,2,1,1,6
+,ERGOSIT Executive Office Chair,899.99,3,1,1,12
+,GAMEPRO Xtreme Gaming Chair,799.99,3,1,2,10
+,GAMEPRO Lite Gaming Chair,499.99,2,1,2,8
+,WORKSPACE 160x80 Office Desk,899.99,5,1,3,15
+,WORKSPACE 140x70 Office Desk,649.99,4,1,3,12
+,GAMEPRO RGB Gaming Desk,1299.99,6,1,4,20
+,CONFERENCE 300x100 Meeting Table,2499.99,10,1,5,35
+,EXECUTIVE Leather Manager Chair,1599.99,4,1,6,18
+,EXECUTIVE Fabric Manager Chair,1199.99,4,1,6,15
+,TECHPRO Mobile Projector Stand,299.99,3,1,7,5
+,"SMARTBOARD 86"" Interactive Display",5499.99,8,1,8,40
+,STORAGE 4-Drawer Document Cabinet,499.99,4,1,9,10
+,RECEPTION Welcome Desk Set,1899.99,7,1,10,25
+,BREAKROOM Lounge Set (Sofa+Table),2299.99,9,1,11,30
+,DESKORGANIZER Premium Set,199.99,1,1,12,3
+,SERVERMAX 42U Server Rack,1899.99,7,1,13,22
+,ERGOSIT Ergonomic Stool,249.99,1,1,1,5
+,WORKSPACE 120x60 Compact Desk,499.99,3,1,3,10

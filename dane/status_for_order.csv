@@ -1,0 +1,7 @@
+﻿status_id,status_name
+,In Production
+,Ready for Shipment
+,Return
+,Cancelled
+,Completed
+,Suspended
